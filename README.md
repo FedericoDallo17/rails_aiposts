@@ -1,0 +1,7 @@
+# AIPosts
+
+Welcome to AIPosts, a rails demo API built with Cursor to test its capabilities to create an app from scratch. InThis repo doesn't have any ruleset to be applied, but another repo will be created with a ruleset to compare both results.
+
+In the repo you will find:
+- A [prompt](/.cursor/prompt.txt) to be used by the agent in order to create the project.
+- Several branches, each of them having a diferent [ruleset](/.cursor/rules/rules.mdc) (one having no ruleset).
